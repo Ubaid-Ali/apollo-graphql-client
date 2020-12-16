@@ -13,3 +13,10 @@
 .App-link {
   color: #61dafb;
 }
+
+.td {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid lightseagreen;
+}
